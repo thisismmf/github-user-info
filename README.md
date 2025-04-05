@@ -55,7 +55,3 @@ User data is cached in memory to avoid repeated API calls for the same user, enh
 ## Contribution
 
 Feel free to submit issues or pull requests for improvements or bug fixes.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
